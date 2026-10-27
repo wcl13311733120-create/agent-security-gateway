@@ -1,1 +1,2 @@
-# Agent Security Gateway — OpenAI-compatible proxy with Policy-as-Code, prompt injection filtering, action catalog, HITL approval, and full-chain audit logging. MVP for the #1 high-priority market need (2026-10-26).
+# agent-security-gateway
+Agent Security Gateway — OpenAI-compatible proxy with Policy-as-Code, prompt injection filtering, action catalog, HITL approval, and full-chain audit logging. MVP for the #1 high-priority market need (2026-10-26).
